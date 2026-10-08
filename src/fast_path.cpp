@@ -2,7 +2,7 @@
 #include <iostream>
 #include <sstream>
 #include <iomanip>
-
+#include <algorithm>
 namespace DPI {
 
 // ============================================================================

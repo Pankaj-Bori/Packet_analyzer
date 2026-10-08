@@ -1,0 +1,25 @@
+# Build files
+build/
+
+# Compiled binaries
+*.exe
+*.dll
+*.o
+*.obj
+
+# Debug/build artifacts
+*.pdb
+*.ilk
+
+# IDE
+.vscode/
+
+# Generated PCAP output
+test_1x1.pcap
+test_youtube_blocked.pcap
+test_domain_blocked.pcap
+allowed_output.pcap
+
+# Temporary files
+*.tmp
+*.log
