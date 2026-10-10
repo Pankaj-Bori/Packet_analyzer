@@ -7,7 +7,7 @@
 namespace DPI {
 
 // ============================================================================
-// ConnectionTracker Implementation
+// ConnectionTracker Implementations
 // ============================================================================
 
 ConnectionTracker::ConnectionTracker(int fp_id, size_t max_connections)
